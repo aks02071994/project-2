@@ -1,1 +1,3 @@
 THis is my first repository
+i think i know about this after take all classes of Git.
+
